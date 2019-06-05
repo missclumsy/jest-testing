@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.hovered {
+  text-transform: uppercase;
+  padding: 10px;
+  background-color: lightpink;
+}

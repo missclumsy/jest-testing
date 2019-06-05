@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Link /> renders correctly 1`] = `
+<a
+  className="normal"
+  href="lol.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Link
+</a>
+`;
